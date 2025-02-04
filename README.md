@@ -1,13 +1,13 @@
 # Linear Progression Machine Learning
 
-Este repositório contém um projeto de **Regressão Linear** aplicado a **Machine Learning**, baseado no vídeo [Linear Regression From Scratch](https://www.youtube.com/watch?v=bGwdwF1vlvQ).
+Este repositório contém um projeto de **Regressão Linear** aplicado a **Machine Learning**.
 
 ## 📌 Objetivo
 O objetivo deste projeto é demonstrar como implementar um modelo de **Regressão Linear** do zero, utilizando **Python** e bibliotecas como `numpy` e `matplotlib`.
 
 
 ## 🚀 Tecnologias Utilizadas
-- **Python 3.x**
+- **Python 3.10.11**
 - **Numpy** (Cálculos matemáticos)
 - **Matplotlib** (Visualização de dados)
 - **Pandas** (Manipulação de dados)
